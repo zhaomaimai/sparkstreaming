@@ -1,0 +1,4 @@
+#spark-streaming 先运行spark
+nc -lp 9999
+spark-submit --class WordCount /home/hadoop/IdeaProjects/sparkstreaming/out/artifacts/sparkstreaming_jar/sparkstreaming.jar //运行提交
+

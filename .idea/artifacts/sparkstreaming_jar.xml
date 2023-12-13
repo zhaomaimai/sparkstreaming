@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sparkstreaming:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sparkstreaming_jar</output-path>
+    <root id="archive" name="sparkstreaming.jar">
+      <element id="module-output" name="sparkstreaming" />
+    </root>
+  </artifact>
+</component>
